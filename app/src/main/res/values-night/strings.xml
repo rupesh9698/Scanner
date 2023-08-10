@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera">CAMERA</string>
+    <string name="click_image">Click Image</string>
+    <string name="capture">CAPTURE</string>
+</resources>
